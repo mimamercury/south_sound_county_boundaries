@@ -1,11 +1,9 @@
 {
   "name": "south_sound_county_boundaries",
   "version": "0.0.0",
-  "description": "Boundaries for South Puget Sound counties",
+  "description": "GeoJSON boundaries for South Puget Sound counties",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mimamercury/county_boundaries.git"
