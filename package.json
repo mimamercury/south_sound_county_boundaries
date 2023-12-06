@@ -1,6 +1,6 @@
 {
   "name": "south_sound_county_boundaries",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "GeoJSON boundaries for South Puget Sound counties",
   "main": "index.js",
   "scripts": {},
