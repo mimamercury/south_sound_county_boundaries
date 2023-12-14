@@ -6,7 +6,6 @@
 ## Todo
 - Pierce County
 - Mason County
-- Kitsap County
 
 ## Usage
 
